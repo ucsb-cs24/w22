@@ -56,22 +56,23 @@ Here's the  list of a few important things you'll need to know to be ready for C
 * Learn (and practice) to produce better programs more quickly and with less stress.
 
 
-# Weekly Pattern and Grade Breakdown
+# Grade Breakdown
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwQWA9rMj05aGXjVcXScAJbedICSU3Ns5Gg4rEMBWFcEO85WforpyQaeIWdzHFcsGC7w3D-Ak0YVfN/pubhtml?widget=true&amp;headers=false" width="850" height="500"></iframe>
+Grades in this class are designed to reflect your work and to document evidence of your learning this core material. The graded components for CS24 are described below:
 
+* Class participation(iclickers): 3%
 
-Grades in this class are designed to reflect your work and to document evidence of your learning this core material. The graded components for CS24 will be Zybook embedded activities, weekly labs, programming assignments, and quizzes. Your overall grade for CS24 will be computed using the weights shown in the above table and also described in more detail below:
+* Professional conduct: 2%
 
-* Zybook activities: 20% of overall score. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. You will need to achieve a passing grade (70%) with integrity on the quiz component of this class to pass this course.
+* Zybook activities: 10%. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. 
 
-* Weekly lab assignments: 20%. These provide regular practice in preparation for larger and more complex programming assignments. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. You will need to achieve a passing grade (70%) with integrity on the quiz component of this class to pass this course.
+* Weekly lab assignments: 15%. These provide regular practice in preparation for larger and more complex programming assignments. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. 
 
-* Programming assignments: 20%. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. You will need to achieve a passing grade (70%) with integrity on the quiz component of this class to pass this course.
+* Programming assignments: 20%. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. 
 
-* Quizzes: 20% of overall score. Lowest quiz will be dropped. You will need to achieve a passing grade (70%) with integrity on the quiz component of this class to pass this course.
+* Midterm: 20% of overall score. Lowest quiz will be dropped. 
 
-* Final Exam: 20% of overall score. You will need to achieve a passing grade (70%) with integrity on the quiz component of this class to pass this course.
+* Final Exam: 30% of overall score. You will need to achieve a passing grade (70%) with integrity on the final exam to pass the course.
 
 
 
@@ -149,7 +150,7 @@ If you have a disability that requires accommodation in this class, please go se
 
 ## Late Lab Policy
 
-Assignments will not be accepted past the dure date. You are responsible to make sure you have the correct score for your assignments prior to the due date. This is specially important if you are working with a programming partner.
+Assignments will not be accepted past the due date. You are responsible to make sure you have the correct score for your assignments prior to the due date. This is specially important if you are working with a programming partner.
 
 
 ## Disclaimer
