@@ -60,11 +60,10 @@ Here's the  list of a few important things you'll need to know to be ready for C
 
 Grades in this class are designed to reflect your work and to document evidence of your learning this core material. The graded components for CS24 are described below:
 
-* Class participation(iclickers): 3%
+* Class participation (iclickers): 3% You will need to register for using the web-based iclicker app following instructions on Gauchospace. Points will be awarded based on your participation and attendance of lectures. You may miss up to 3 lectures without any penalty. 
 
-* Professional conduct: 2%
 
-* Zybook activities: 10%. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. 
+* Zybook activities: 12%. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. 
 
 * Weekly lab assignments: 15%. These provide regular practice in preparation for larger and more complex programming assignments. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. 
 
