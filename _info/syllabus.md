@@ -13,10 +13,10 @@ You must contact the instructor for clarification if you receive information fro
 
 * **Course Web Site**: <{{ site.url}}>
 * **Instructor**:  {{site.instructor}}
-* **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
+* **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}} ATTENDANCE REQUIRED
 * **TAs**: {{ site.tas}}
 * **ULAs**: {{site.ulas}}
-* **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED if you are working with a pair partner. 
+* **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED if you are working with a pair partner. If you have a section conflict you may informally switch your section time with another student and consistently attend the new time. No need to email the instructor.
 
 Please check Gauchospace for staff office hours and Zoom meeting links for lecture, discussion, and office hours.
 
@@ -61,7 +61,6 @@ Here's the  list of a few important things you'll need to know to be ready for C
 Grades in this class are designed to reflect your work and to document evidence of your learning core material. The graded components for CS24 are described below:
 
 * Class participation (iclickers): 3% You will need to register for using the web-based iclicker app following instructions on Gauchospace. Points will be awarded based on your participation and attendance of lectures. You may miss up to 3 lectures without any penalty. 
-
 
 * Zybook activities: 12%. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. 
 Note: If purchasing the book imposes a financial hardship that you cannot bear, please contact lori.berns@zybooks.com for assistance. Alternatively, you may choose not to purchase the subscription if you are an advanced C++ programmer and have a solid understanding of data structures and complexity analysis of algorithms. In this case, your grade for this component will be replaced by the average of your midterm and final exam scores.
@@ -136,7 +135,7 @@ For the assignments where pair programming is mentioned, it is optional. But her
 
 ## Makeups for exams
 
-* Makeups on quizzes and exams will only be given if there is an emergency situation that you could not predict or avoid including but not limited to major illness
+* Makeups on exams will only be given if there is an emergency situation that you could not predict or avoid including but not limited to major illness
 
 * No makeups will be given if you have a conflict with any of the exams for this course. Please check for conflicts with the final!
 

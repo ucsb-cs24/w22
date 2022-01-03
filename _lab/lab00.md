@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab00
-ready: true
+ready: false
 desc: "Getting started"
-assigned: 2021-03-31 15:00:00.00-8
-due: 2021-04-02 23:59:00.00-8
+assigned: 2022-01-06 15:00:00.00-8
+due: 2022-01-07 22:00:00.00-8
 ---
 
 
@@ -29,7 +29,7 @@ If you are enrolled in <i>any</i> CoE course this quarter (including CS24), you 
 
 ## Get setup with github
 
-We will be using github.com in this course.   We have created an organization called ucsb-cs24-mirza-s21 on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors, TAs and mentors) will be able to see your code and provide you with help, without you having to do anything special.
+We will be using github.com in this course.   We have created an organization called {{site.class_org.name}} on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors, TAs and mentors) will be able to see your code and provide you with help, without you having to do anything special.
 
 To join this organization, you need to do three things.
 
@@ -37,7 +37,7 @@ To join this organization, you need to do three things.
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS24-S21), and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
+3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course ({{site.org.githublinker}}), and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
 
 4. Accept the invitation that appears in your browser (from step 3) or log into your account on [www.github.com](https://github.com/) to accept the invitation.
 
@@ -99,7 +99,7 @@ git config --global user.email "atriton@cs.ucsb.edu"
 
 
 ## Step 1b: Create a new repo and clone it on your local machine
-For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs24-mirza-s21 organization following these steps
+For this lab and all subsequent programming assignments, you should start by creating a repo in the {{site.class_org.name}} organization following these steps
 
 * Navigate to your dashboard on [https://github.com](https://github.com). From the left drop down menu, select the class organization as shown in the figure below:
 ![select-org](select-org.png){:height="500px"}
@@ -115,14 +115,14 @@ For this lab and all subsequent programming assignments, you should start by cre
 ![new-repo](enter-org/pic5.png){:height="500px"}
 
 * Clone the repo on your local machine: Navigate to your repo on github. If your repo is named lab00_jgaucho, then you have to go to to the link:
-https://github.com/ucsb-cs24-mirza-s21/lab00_jgaucho. Click on the green "clone or download" button. Then click on the address of your repo as shown in the figure below:
+https://github.com/{{site.class_org.name}}/lab00_jgaucho. Click on the green "clone or download" button. Then click on the address of your repo as shown in the figure below:
 
 ![submit](/lab/lab01/clone-repo.png){:height="500px"}
 
 * In your cs24 directory, then paste the address you just copied to the terminal following the git clone command. Here is an example of the steps
 
 ```
-git clone git@github.com:ucsb-cs24-mirza-s21/lab00_jgaucho.git
+git clone git@github.com:{{site.class_org.name}}/lab00_jgaucho.git
 ```
 
 * The above command will create a new directory with the same name as your git repo. Change into that directory. For our example repo we need to type
