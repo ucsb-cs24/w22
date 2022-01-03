@@ -13,7 +13,7 @@ You must contact the instructor for clarification if you receive information fro
 
 * **Course Web Site**: <{{ site.url}}>
 * **Instructor**:  {{site.instructor}}
-* **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}} ATTENDANCE REQUIRED
+* **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}} ATTENDANCE HIGHLY RECOMMENDED
 * **TAs**: {{ site.tas}}
 * **ULAs**: {{site.ulas}}
 * **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED if you are working with a pair partner. If you have a section conflict you may informally switch your section time with another student and consistently attend the new time. No need to email the instructor.
@@ -60,9 +60,8 @@ Here's the  list of a few important things you'll need to know to be ready for C
 
 Grades in this class are designed to reflect your work and to document evidence of your learning core material. The graded components for CS24 are described below:
 
-* Class participation (iclickers): 3% You will need to register for using the web-based iclicker app following instructions on Gauchospace. Points will be awarded based on your participation and attendance of lectures. You may miss up to 3 lectures without any penalty. 
 
-* Zybook activities: 12%. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. 
+* Zybook activities: 15%. Note: There are two types of activities in the book: participation and challenge. The "participation activities" are graded for attempt only. The "challenge activities" are graded for correctness. However, you can try them as many times as you like without penalty. They are more like mini autograded home works. An orange check mark will appear on the top right corner of the activity after you complete each activity. 
 Note: If purchasing the book imposes a financial hardship that you cannot bear, please contact lori.berns@zybooks.com for assistance. Alternatively, you may choose not to purchase the subscription if you are an advanced C++ programmer and have a solid understanding of data structures and complexity analysis of algorithms. In this case, your grade for this component will be replaced by the average of your midterm and final exam scores.
 
 * Weekly lab assignments: 15%. These provide regular practice in preparation for larger and more complex programming assignments. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. 
