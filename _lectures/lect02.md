@@ -5,7 +5,7 @@ desc:  "Review: C++ classes and abstract data types"
 ready: true
 pdfurl: /lectures/CS24_Lecture2.pdf
 annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
-annotatedready: false
+annotatedready: true
 
 ---
 

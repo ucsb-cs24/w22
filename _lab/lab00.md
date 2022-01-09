@@ -4,7 +4,7 @@ num: lab00
 ready: true
 desc: "Getting started"
 assigned: 2022-01-06 15:00:00.00-8
-due: 2022-01-07 22:00:00.00-8
+due: 2022-01-10 22:00:00.00-8
 ---
 
 
