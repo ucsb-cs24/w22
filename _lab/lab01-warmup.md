@@ -4,7 +4,7 @@ num: warmup-lab
 ready: true
 desc: "CS16 Final Exam"
 assigned: 2022-01-10 9:00:00.00-8
-due: 2022-01-24 22:00:00.00-8
+due: 2022-01-21 22:00:00.00-8
 ---
 
 # Instructions
