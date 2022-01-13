@@ -1,6 +1,6 @@
 ---
 layout: lab
-num: warmup-lab
+num: warmup-cs16-final
 ready: true
 desc: "CS16 Final Exam"
 assigned: 2022-01-10 9:00:00.00-8
