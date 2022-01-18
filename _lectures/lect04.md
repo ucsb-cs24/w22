@@ -1,7 +1,7 @@
 ---
 num: "lect04"
 desc: "Operator Overloading, Organizing C++ programs using multiple files and Makefiles "
-ready: false
+ready: ready
 pdfurl: /lectures/CS24_Lecture4.pdf
 annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
 annotatedready: false 

@@ -1,12 +1,11 @@
 ---
 num: "lect05"
-desc: "Intro to Vector and Linked Lists"
+desc: "Intro to Linked Lists"
 ready: true
 pdfurl: /lectures/CS24_Lecture5.pdf
 annotatedpdfurl: /lectures/CS24_Lecture5_ann.pdf
 annotatedready: false
 lecture_date: 2022-01-19
-
 ---
 
 # Code from lecture

@@ -1,6 +1,6 @@
 ---
 num: "lect06"
-desc: "Linked-lists  "
+desc: "Linked-lists: OOP style + Rule of Three  "
 ready: true
 pdfurl: /lectures/CS24_Lecture4.pdf
 annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
