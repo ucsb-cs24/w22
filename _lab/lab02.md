@@ -1,10 +1,10 @@
 ---
 layout: lab
-num: lab03
+num: lab02
 ready: true
 desc: "Implementing a linked list"
-assigned: 2021-04-22 9:00:00.00-8
-due: 2020-04-28 21:59:00.00-8
+assigned: 2022-01-20 9:00:00.00-8
+due: 2020-01-26 20:00:00.00-8
 ---
 
 
@@ -16,7 +16,9 @@ By the time you have completed this lab, you should be able to
 * Create, use and manage memory for simple linked lists
 * Implement functions that process linked lists
 
-# This lab must be done solo
+
+# This lab must be done individually, however, in preparation for the next programming assignment please work with your section TA to find a partner. You may pair up with the same partner as lab01 one more time but you must change partners after that.
+
 # Academic Honesty 
 All work submitted for this lab should be your own. If you are using any hints from a previous offering of this course that was posted publicly by a CS24 instructor, you must cite your source. 
 
@@ -34,7 +36,7 @@ All work submitted for this lab should be your own. If you are using any hints f
 
 Visit the following web link—you may want to use “right-click” (or “control-click” on Mac) to bring up a window where you can open this in a new window or tab:
 
-[Lab03 Files](https://github.com/ucsb-cs24-mirza-s21/lab03_data/tree/yyang)
+[{{page.num}} Files](https://github.com/{{site.class_org.name}}/{{page.num}}_data/tree/yyang)
 
 You should see a listing of several C++ files. Please copy those files into your local lab03 Github repo directory.
 
