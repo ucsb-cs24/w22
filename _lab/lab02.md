@@ -4,7 +4,7 @@ num: lab02
 ready: true
 desc: "Linked Lists in C++ with structs"
 assigned: 2022-01-20 9:00:00.00-8
-due: 2020-01-26 20:00:00.00-8
+due: 2020-01-26 22:00:00.00-8
 ---
 
 # We recommend completing this lab with a partner
