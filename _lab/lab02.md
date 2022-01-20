@@ -7,11 +7,16 @@ assigned: 2022-01-20 9:00:00.00-8
 due: 2020-01-26 22:00:00.00-8
 ---
 
-# We recommend completing this lab with a partner
+# Pair programming is required for this lab
+This is the only lab where pair programming is required.
+The lab is identitical to lab09 of the Fall offering of CS16.
+If you completed it as part of CS16, you may not just resubmit that code.
+Instead, we ask that you redo the lab with a partner, preferably someone who did not take CS16 in the Fall. The goal of the lab is to help students who don't have experience implementing a linked list get the practice they need.
+By redoing the lab, you will be contributing to their learning and your own.
 
 # Goals for this lab
 
-The goal of this lab is practice iterating through linked lists and solving problems. Continue to practice code tracing to reason about your code. If you took CS16 in Fall 21 then you have already completed this lab. In this case, we ask that you redo the lab but with a partner (preferably someone who hasn't taken CS16 in F21)
+The goal of this lab is practice iterating through linked lists and solving problems. Continue to practice code tracing to reason about your code. 
 
 We request that you DO NOT ask the staff to debug your code for you. They have been specifically instructed not to debug *for* you, but rather to *guide you* through the process of debugging your code yourselves.
 
@@ -19,11 +24,7 @@ We request that you DO NOT ask the staff to debug your code for you. They have b
 
 ## Step 1: Getting Ready
 
-1. Go to github and find a repo for this lab assigned to your GitHub id.
-2. Log on to your CSIL account.
-3. Change into your `~/cs24` directory
-4. Clone your empty lab02 repo into your `~/cs24` directory.
-5. In your empty repo, do `git checkout -b main` to establish that you are on the `main` branch as your default branch.
+Create a repo for this lab in our class organization and clone it to your local machine.
 
 
 ## Step 2: Obtain the starter code
