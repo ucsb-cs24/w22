@@ -40,10 +40,10 @@ Once you've populated your repo, typing the `ls` command should show you the fol
 
 ```
 $ ls
-Makefile              linkedListFuncs.h	       tddFuncs.cpp
-README.md             llTests.cpp		           tddFuncs.h
-linkedList.h          moreLinkedListFuncs.cpp
-linkedListFuncs.cpp	  moreLinkedListFuncs.h
+Makefile              	linkedListFuncs.h		tddFuncs.cpp
+README.md             	llTests.cpp	       		tddFuncs.h
+linkedList.h          	moreLinkedListFuncs.cpp
+linkedListFuncs.cpp	moreLinkedListFuncs.h
 ```
 
 ## Step 3: Reviewing the files and what your tasks are
@@ -54,7 +54,7 @@ Here is a list of your tasks for this lab:
 
 Type "make tests" and you will see some tests pass, but some fail.
 
-You are finished when all the tests pass. We have implemented a few function that involve linked lists in `linkedListFuncs.cpp`. There is only one file you need to edit this week:
+You are finished when all the tests pass. We have implemented a few functions that involve linked lists in `linkedListFuncs.cpp`. There is only one file you need to edit this week:
 
 <code>moreLinkedListFuncs.cpp</code> contains more functions that deal with linked lists.  
 
@@ -183,7 +183,7 @@ At that point, you are ready to try submitting on Gradescope.
 
 ## Step 5: Turn in your code on Gradescope
 
-Submit all the .cpp and .h files to Lab06 assignment on Gradescope via your github repo. Then visit Gradescope and check that you have a correct score.
+Submit all the .cpp and .h files to Lab02 assignment on Gradescope via your github repo. Then visit Gradescope and check that you have a correct score.
 
 * You must check that you have followed these style guidelines:
 
