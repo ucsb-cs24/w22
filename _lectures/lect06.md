@@ -2,7 +2,7 @@
 num: "lect06"
 desc: "Linked-lists: OOP style + Rule of Three  "
 ready: true
-pdfurl: /lectures/CS24_Lecture4.pdf
+pdfurl: /lectures/CS24_Lecture6.pdf
 annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
 annotatedready: false 
 lecture_date: 2022-01-24
