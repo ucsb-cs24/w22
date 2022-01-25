@@ -17,7 +17,7 @@ By the time you have completed this lab, you should be able to
 * Implement functions that process linked lists
 
 
-# This lab must be done with the same partners as lab01
+## This lab must be done with the same partners as lab01
 
 # Academic Honesty 
 All work submitted for this lab should be your own and your partners. If you are using any hints from a previous offering of this course that was posted publicly by a CS24 instructor, you must cite your source. 
