@@ -5,7 +5,7 @@ ready: true
 pdfurl: /lectures/CS24_Lecture7.pdf
 annotatedpdfurl: /lectures/CS24_Lecture7_ann.pdf
 annotatedready: false 
-lecture_date: 2022-01-24
+lecture_date: 2022-01-26
 ---
 
 # Code from lecture
