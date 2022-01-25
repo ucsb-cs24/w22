@@ -4,7 +4,7 @@ num: lab03
 ready: true
 desc: "Implementing a linked list- OOP style"
 assigned: 2022-01-27 9:00:00.00-8
-due: 2022-02-02 20:00:00.00-8
+due: 2022-02-02 22:00:00.00-8
 ---
 
 
