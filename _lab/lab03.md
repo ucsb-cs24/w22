@@ -45,7 +45,8 @@ All work submitted for this lab should be your own and your partners. If you are
 
 Visit the following web link—you may want to use “right-click” (or “control-click” on Mac) to bring up a window where you can open this in a new window or tab:
 
-[{{page.num}} Files](https://github.com/{{site.class_org.name}}/{{page.num}}_data/tree/yyang)
+[{{page.num}} Files](https://github.com/{{site.class_org.name}}/{{page.num}}_starter/)
+
 
 You should see a listing of several C++ files. Please copy those files into your local lab03 Github repo directory.
 
