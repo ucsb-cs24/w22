@@ -7,6 +7,15 @@ assigned: 2022-01-27 9:00:00.00-8
 due: 2022-02-02 22:00:00.00-8
 ---
 
+## Step 0: Announcing your collboration choice (due Jan 26 at 4p)
+This lab may be done with a partner or solo. 
+You can choose to work with the same partner as lab02, form a new partnership, or ask the TAs to assign you a partner.
+However, you must fill out this form by Jan 26 at 4p to announce your decision:
+<https://forms.gle/wa5whZc72mmugmW8A>
+
+Not responding to the form on time or not responding to the partner who you have agreed to work with will result in a 30% deduction of your lab grade.
+
+# Announce whether you are working with a partner or solo
 
 # Goals for this lab
 
@@ -17,7 +26,7 @@ By the time you have completed this lab, you should be able to
 * Implement functions that process linked lists
 
 
-## This lab must be done with the same partners as lab02
+
 
 # Academic Honesty 
 All work submitted for this lab should be your own and your partners. If you are using any hints from a previous offering of this course that was posted publicly by a CS24 instructor, you must cite your source. 
