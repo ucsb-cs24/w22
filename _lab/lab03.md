@@ -13,8 +13,10 @@ You can choose to work with the same partner as lab02, form a new partnership, o
 However, you must fill out this form by Jan 26 at 4p to announce your decision:
 <https://forms.gle/wa5whZc72mmugmW8A>
 
-Not responding to the form on time or not responding to the partner who you have agreed to work with will result in a 30% deduction of your lab grade.
 
+If you have identified a partner in your section who has also agreed to work with you or if you decide to work solo, you can begin working on the lab right after submitting the form.
+
+However, if you are requesting for the TAs to assign a partner to you, you must wait until your section time on Thursday to hear about the assignment.  Please respond to any communication from TAs or your partners quickly! Not filling the form on time or not responding to the partner who you have agreed to work with will result in a 30% deduction of your lab grade.
 
 # Goals for this lab
 
