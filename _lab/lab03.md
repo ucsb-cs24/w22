@@ -7,16 +7,18 @@ assigned: 2022-01-27 9:00:00.00-8
 due: 2022-02-02 22:00:00.00-8
 ---
 
-## Announcing your collaboration choice (due Jan 26 at 4p) (IMPORTANT!)
+## Announcing your collaboration choice (due Jabn 26, extended due date Jan 27 at 4p) (IMPORTANT!)
 This lab may be done with a partner or solo. 
 You can choose to work with the same partner as lab02, form a new partnership, or ask the TAs to assign you a partner.
-However, you must fill out this form by Jan 26 at 4p to announce your decision:
+However, you must fill out this form by Jan 27 at 4p to announce your decision:
 <https://forms.gle/wa5whZc72mmugmW8A>
 
 
 If you have identified a partner in your section who has also agreed to work with you or if you decide to work solo, you can begin working on the lab right after submitting the form.
 
 However, if you are requesting for the TAs to assign a partner to you, you must wait until your section time on Thursday to hear about the assignment.  Please respond to any communication from TAs or your partners quickly! Not filling the form on time or not responding to the partner who you have agreed to work with will result in a 30% deduction of your lab grade.
+
+If you missed the deadline, you must still fill the form before you begin working on this lab to get credit for the lab.
 
 # Goals for this lab
 
