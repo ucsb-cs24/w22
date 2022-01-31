@@ -1,5 +1,5 @@
 ---
-lecture_date: 2022-01-21
+lecture_date: 2022-01-31
 num: "lect08"
 desc: "Binary Search Trees - Part 1"
 ready: true
@@ -14,5 +14,4 @@ annotatedready: false
 # Topics
 * Binary trees
 * Binary search trees (BST) - implementation
-* BST operations 
-* Traversing a BST inorder, preorder, post order
+* BST operations (search, insert, min, max)
