@@ -17,7 +17,7 @@ By the time you have completed this lab, you should be able to
 * Implement binary search tree functions
 
 ## Collaboration policy
-This lab may be done solo or with a partner. By default we will assume that your collaboration choice is the same as lab03. However, if you are looking to change your choice from lab03, fill the partner form for lab04 by Feb 03 at 9am <https://forms.gle/5G1RLBSV3qNHrJww8>
+This lab may be done solo or with a partner. We will assume that your collaboration choice is the same as lab03. So, you have the option of either working with same partners as lab03 or working solo. 
 
 If you are working with a partner, make sure both you and your partner are able to view the code on a shared screen. You may not work separately on the lab.
 
