@@ -3,8 +3,8 @@ num: "lect06"
 desc: "Linked-lists: OOP style implementation "
 ready: true
 pdfurl: /lectures/CS24_Lecture6.pdf
-annotatedpdfurl: /lectures/CS24_Lecture4_ann.pdf
-annotatedready: false 
+annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
+annotatedready: true 
 lecture_date: 2022-01-24
 ---
 
