@@ -1,6 +1,6 @@
 ---
 lecture_date: 2022-02-16
-num: "lect11"
+num: "lect12"
 desc: "BST running time analysis"
 ready: true
 pdfurl: /lectures/CS24_Lecture12.pdf
