@@ -1,7 +1,7 @@
 ---
 lecture_date: 2022-02-07
 num: "lect10"
-desc: "Analyzing the efficiency of algorithms- Part 1"
+desc: "Analyzing the efficiency of algorithms - Part 1"
 ready: true
 pdfurl: /lectures/CS24_Lecture10.pdf
 annotatedpdfurl: /lectures/CS24_Lecture10_ann.pdf
