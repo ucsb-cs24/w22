@@ -40,7 +40,7 @@ class IntBST {
 };
 //end of class definition
 
-#include "intbst.cpp" //includes the template version of all the member functions
+#include "intbst.cpp" 
 
 #endif
 ```
