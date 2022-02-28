@@ -101,8 +101,7 @@ Submit the files evalfull.cpp and usestack.cpp to the assignment on Gradescope.
 
 ## Evaluation and Grading
 
-Each student must accomplish the following to earn full credit for this lab:
-[55 points] usestack.cpp and evalfull.cpp are saved, with your name(s) in a comment at the top and other evidence of your work. Both of these files should compile and execute properly too.
+Each student must accomplish the following to earn full credit for this lab: usestack.cpp and evalfull.cpp are saved, with your name(s) in a comment at the top and other evidence of your work. Both of these files should compile and execute properly on Gradescope.
 
 
 
