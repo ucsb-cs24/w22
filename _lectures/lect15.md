@@ -5,7 +5,7 @@ desc: "C++ Iterators and more STL practice"
 ready: true
 pdfurl: /lectures/CS24_Lecture15.pdf
 annotatedpdfurl: /lectures/CS24_Lecture15_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 ## Code written in class
