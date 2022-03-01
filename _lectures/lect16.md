@@ -1,11 +1,11 @@
 ---
-lecture_date: 2021-05-19
+lecture_date: 2022-03-02
 num: "lect16"
 desc: "Priority queues, Comparison classes"
 ready: true
 pdfurl: /lectures/CS24_Lecture16.pdf
 annotatedpdfurl: /lectures/CS24_Lecture16_ann.pdf
-annotatedready: true
+annotatedready: false
 
 ---
 
