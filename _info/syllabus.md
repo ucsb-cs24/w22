@@ -68,9 +68,9 @@ Note: If purchasing the book imposes a financial hardship that you cannot bear, 
 
 * Programming assignments: 20%. Check the instructions on top of each assignment for collaboration policy. Some assignments may be completed in pairs. 
 
-* Midterm: 20% of overall score. 
+* Midterm: 10% of overall score. 
 
-* Final Exam: 30% of overall score. You will need to achieve a passing grade (70%) with integrity on the final exam to pass the course.
+* Final Exam: 40% of overall score. You will need to achieve a passing grade (70%) with integrity on the final exam to pass the course.
 
 
 
