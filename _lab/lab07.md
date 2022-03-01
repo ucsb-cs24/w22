@@ -21,14 +21,14 @@ This lab may be done with a partner
 
 ## Step by Step Instructions
 
-# Step 0: Surveys (1% of your overall grade)
+# Step 0: Surveys (1% extra credit of your overall grade)
 
-* (0.5% Extra credit): The following survey is to get your feedback on the CS24 curriculum. It is anonymous but its setup in a way that you can still get credit for filling it, at the end of the survey you are directed to a separate survey where you should enter your credentials.
+* (1% Extra credit): The following survey is to get your feedback on the CS24 curriculum. It is anonymous but its setup in a way that you can still get credit for filling it, at the end of the survey you are directed to a separate survey where you should enter your credentials.
 
 Link to survey:
 [https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF](https://ucsb.co1.qualtrics.com/jfe/form/SV_0PKZjij05RB0XgF)
 
-* (0.5% Extra credit): If more than 60% of the class fills out the course (ESCIs) for the instructor and TAs, you'll receive another. Links should be available through Gauchospace.
+* Although this is not towards the extra credit, a reminder to please fill out the course (ESCIs) for the instructor and TAs. Links should be available through Gauchospace. 
 
 ## Step 1: Get the starter code
 Use scp to copy the starter code from CSIL from the following directory:
