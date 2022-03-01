@@ -2,7 +2,7 @@
 layout: lab
 num: lab07
 ready: true
-desc: "Implementing a heap"
+desc: "Implementing a min-heap"
 assigned: 2022-03-03 9:00:00.00-8
 due: 2022-03-09 20:00:00.00-8
 ---
