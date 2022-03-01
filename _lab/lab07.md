@@ -43,7 +43,7 @@ You should have the following files:
 examheap.cpp heap.cpp heap.h
 ```
 
-First look at heap.h to see the basic operations for a heap. You will implement all of these operations for these lab. Also notice the storage mechanism we will be using for the heap: a [http://www.cplusplus.com/reference/vector/](http://www.cplusplus.com/reference/vector/). It will probably be a good idea to read through the documentation for this standard library class (linked above) if you are not familiar with it.
+First look at heap.h to see the basic operations for a heap. You will implement all of these operations of a min-heap in this lab. Also notice the storage mechanism we will be using for the heap: a [http://www.cplusplus.com/reference/vector/](http://www.cplusplus.com/reference/vector/). It will probably be a good idea to read through the documentation for this standard library class (linked above) if you are not familiar with it.
 
 Now look at examheap.cpp. This file will test your heap's behavior. The first test is quite simple and just adds a couple elements to your heap. For larger numbers of inputs, it uses the `std::priority_queue` class from the standard library as ground truth to test your code against. The first thing you need to do is compose your Makefile to compile `examheap.cpp` with `heap.cpp` to executable `examheap`. Then, feel free to compile and run `examheap` before starting on your code. However, note that all the tests will fail and say "Aborted (core dumped)".
 
