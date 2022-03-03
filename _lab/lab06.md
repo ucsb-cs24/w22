@@ -4,7 +4,7 @@ num: lab06
 ready: true
 desc: "Evaluating expressions with stacks"
 assigned: 2022-02-24 9:00:00.00-8
-due: 2022-03-02 20:00:00.00-8
+due: 2022-03-02 22:00:00.00-8
 ---
 
 # Collaboration policy
