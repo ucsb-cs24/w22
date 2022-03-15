@@ -70,7 +70,7 @@ Note: If purchasing the book imposes a financial hardship that you cannot bear, 
 
 * Midterm: 10% of overall score. 
 
-* Final Exam: 40% of overall score. You will need to achieve a passing grade 
+* Final Exam: 40% of overall score. 
 
 
 ## Academic Integrity
