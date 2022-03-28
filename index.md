@@ -2,7 +2,7 @@
 title: "CS 24: Problem Solving with Computers-II , {{site.quarter}}, Mirza"
 ---
 
-# CS 24 {{site.qtr}}: Problem Solving with Computers-II, Mirza
+# CS 24 Spring 22: Problem Solving with Computers-II, Mirza
 
 <!--{{site.course}}, {{site.quarter}}-->
 
