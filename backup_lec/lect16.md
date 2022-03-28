@@ -1,5 +1,5 @@
 ---
-lecture_date: 2022-03-02
+lecture_date: 2021-05-19
 num: "lect16"
 desc: "Priority queues, Comparison classes"
 ready: true

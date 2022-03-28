@@ -4,7 +4,7 @@ num: lab01
 ready: true
 desc: "Objective Cars"
 assigned: 2022-01-13 9:00:00.00-8
-due: 2022-01-19 22:00:00.00-8
+due: 2022-01-19 21:59:00.00-8
 ---
 
 # Goals Step by Step
@@ -17,7 +17,7 @@ As stated in previous labs, there are a few requirements you must follow if you 
 * Your partner must be enrolled in the same lab section as you.
 * You and your partner must agree to work together outside of the lab section in case you do not finish the lab during your lab section. You must agree to reserve at least two hours outside of the lab section to work together if needed. You are responsible for exchanging contact information in case you need to reach your partner.
 * If you choose to work with a partner for a future lab where pair programming is allowed, then you must choose a partner you have not worked with before.
-* You MUST add your partner on Gradescope when submitting your work EACH TIME you submit your file(s). After uploading your file(s) on Gradescope, there is a “Group Members” link at the bottom (or “Add Group Member” under “Groups”) where you can select the partner you are working with. Whoever uploaded the submission must make sure your partner is part of your Group. Click on “Group Members” -> “Add Member” and select your partner from the list.
+* You MUST add your partner on Gradescope when submitting your work EACH TIME you submit a file(s). After uploading your file(s) on Gradescope, there is a “Group Members” link at the bottom (or “Add Group Member” under “Groups”) where you can select the partner you are working with. Whoever uploaded the submission must make sure your partner is part of your Group. Click on “Group Members” -> “Add Member” and select your partner from the list.
 * You must write your Name(s) and Perm number on each file submitted to Gradescope.
 Once you and your partner are in agreement, choose an initial driver and navigator, and have the driver log into their account.
 

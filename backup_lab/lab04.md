@@ -17,11 +17,7 @@ By the time you have completed this lab, you should be able to
 * Implement binary search tree functions
 
 ## Collaboration policy
-This lab may be done solo or with a partner. We will assume that your collaboration choice is the same as lab03. If your choice has not changed, there is nothing to do. 
-
-However, if your collaboration choice has changed you must fill this form by Feb 03 at 9am. Link to form <https://forms.gle/7UzUmgFk8mF3Zj2v8>
-
-Section TAs will only be able to help with pairing if the form is filled before the deadline.
+This lab may be done solo or with a partner. By default we will assume that your collaboration choice is the same as lab03. However, if you are looking to change your choice from lab03, fill the partner form for lab04 by Feb 03 at 9am <https://forms.gle/5G1RLBSV3qNHrJww8>
 
 If you are working with a partner, make sure both you and your partner are able to view the code on a shared screen. You may not work separately on the lab.
 
@@ -199,6 +195,11 @@ In a file named test_intbst.cpp, include code to test all the functions that you
 # Step 6: Submit your revised intbst.cpp, test_intbst.cpp and intbst.h
 
 You are allowed to modify intbst.h, though you should not need to, so submit both intbst.cpp and intbst.h to Gradescope for a grade out of 100. 
+# Optional Extra Challenge
 
+AFTER you have completed the main lab, you may modify it for extra credit by converting your BST to a generic data structure. For convenience, we will not change any of the file or data structure names, but your structure should be useable as IntBST<T> where T is a type that can be compared with <, >, etc. This could include double, char, or any other basic type. There is a separate Gradescope submission portal for this extra credit assignment. Make sure to have a full-credit submission on the main assignment's Gradescope before working on this part.
+
+Note that you should implement a generic type in intbst.cpp and include it in your header file as #include "intbst.cpp".
+Submit files: intbst.h and intbst.cpp
 
 </div>

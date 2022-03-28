@@ -1,14 +1,19 @@
 ---
-lecture_date: 2022-02-18
+lecture_date: 2021-05-10
 num: "lect13"
-desc: "C++ templates: Asynchronous lecture"
+desc: "C++ templates"
 ready: true
 pdfurl: /lectures/CS24_Lecture13.pdf
 annotatedpdfurl: /lectures/CS24_Lecture13_ann.pdf
 annotatedready: true
 ---
 
-Since Monday 02/21 is a University Holiday, please watch the video recording for this lecture on Gauchospace asynchornously. The topics covered are relevant for lab05.
+## Code written in class
+
+[{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
+
+
+
 
 # Topics
 * Writing generic fucntions and classes with templates

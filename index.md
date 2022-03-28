@@ -1,8 +1,8 @@
 ---
-title: "CS 24: Problem Solving with Computers-II , {{site.quarter}}, Mirza"
+title: "CS 24: Problem Solving with Computers-II , Winter 22, Mirza"
 ---
 
-# CS 24 {{site.qtr}}: Problem Solving with Computers-II, Mirza
+# CS 24: Problem Solving with Computers-II, W22, Mirza
 
 <!--{{site.course}}, {{site.quarter}}-->
 
